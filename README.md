@@ -1,6 +1,6 @@
 # groups.hachile.org
 
-个人网络社群档案，包含旧站公开的 QQ 群目录、微信公众号名称，以及三个重点社群的独立展览页。
+个人网络社群档案，包含旧站公开及后续补充的 QQ 群目录、微信公众号名称、Discord 与 Telegram 社群入口，以及三个重点社群的独立展览页。
 
 无需构建工具。GitHub Pages 从 `main` 分支根目录部署，`CNAME` 指向 `groups.hachile.org`。
 
