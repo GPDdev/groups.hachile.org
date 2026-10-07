@@ -33,6 +33,9 @@ h1 em{font-style:normal;color:#458f6b}
 .stat-top,.stat-bottom{text-align:center;font-size:13px;line-height:1.65;font-weight:600;color:#456a53}
 .hero-stat strong{font-size:clamp(100px,12vw,176px);line-height:1.05;letter-spacing:-.09em;font-weight:600;color:#28553e;margin-right:12px}
 .stat-orbit{position:absolute;width:16px;height:16px;background:#e19c5e;border-radius:50%;right:3%;top:13%;box-shadow:-325px 235px 0 -4px #729e81}
+.community-intro{padding-bottom:50px;font-size:clamp(15px,1.5vw,18px);line-height:2;color:#4e5e59}
+.community-intro p{max-width:960px;margin-bottom:24px}
+.community-intro .intro-signoff{margin-bottom:0;color:#458f6b;font-weight:700;letter-spacing:.08em}
 .community-quote{border:1px solid var(--line);border-radius:22px;background:#fff;padding:34px 42px}
 .community-quote blockquote{margin:0;font-size:clamp(18px,2vw,26px);line-height:1.65;font-weight:600}
 .community-quote blockquote p{margin:0 0 8px}
